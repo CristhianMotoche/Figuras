@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Aplicaciones Android\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-befba1efa330f4a8ec8089d4f3ef01bb5fe33818.jar" />
+    </item>
+    <item
+        jar="D:\Aplicaciones Android\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Aplicaciones Android\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-21abf1def4f4d9c3d39f6e0f137c0f6141668085.jar" />
+    </item>
+    <item
+        jar="D:\Aplicaciones Android\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Aplicaciones Android\HelloWorld\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2c53c428b4f940445e72e7719d54fd3c48f836ef.jar" />
+    </item>
+    <item
+        jar="D:\Aplicaciones Android\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Aplicaciones Android\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-e93ad0b6405cc5abf04b1704e60cb31ca7d6f460.jar" />
+    </item>
+    <item
+        jar="D:\Aplicaciones Android\Aplicaci-n-para-ni-os-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Aplicaciones Android\Aplicaci-n-para-ni-os-android\app\build\intermediates\pre-dexed\debug\classes-7ab5b8f2caf2b100b440b6b715abcc8dd50b9a02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Aplicaciones Android\Aplicaci-n-para-ni-os-android\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e18fc221b300b9ab8249619916f1e56a9b030ad0.jar" />
+    </item>
+
+</items>

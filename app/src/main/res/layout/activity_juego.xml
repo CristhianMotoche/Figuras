@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/fondo_menu">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/foto1"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/ic_launcher"
+                android:layout_alignTop="@+id/foto3"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="60dp" />
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/foto3"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/ic_launcher"
+                android:layout_marginRight="33dp"
+                android:layout_marginEnd="33dp"
+                android:layout_alignTop="@+id/foto2"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="60dp" />
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/foto4"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/ic_launcher"
+                android:layout_below="@+id/foto3"
+                android:layout_alignLeft="@+id/foto2"
+                android:layout_alignStart="@+id/foto2"
+                android:layout_marginTop="60dp"
+                android:layout_marginLeft="60dp" />
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/foto5"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/ic_launcher"
+                android:layout_alignTop="@+id/foto4"
+                android:layout_alignLeft="@+id/foto3"
+                android:layout_alignStart="@+id/foto3" />
+<<<<<<< HEAD
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textoBusqueda"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:autoText="false"
+                android:textColor="#ff0084ff"
+                android:textStyle="bold"
+                android:background="#ffffa32e" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Puntaje"
+        android:id="@+id/textPuntaje"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:background="#ff6e77ff" />
+=======
+        </RelativeLayout>
+    </ScrollView>
+>>>>>>> 8d7759f26a03942aeb2a8b63ecfb6d457573783c
+</RelativeLayout>
